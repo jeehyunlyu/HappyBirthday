@@ -6,7 +6,7 @@ function App() {
         div className = "App" >
         <
         h1 > hi < /h1> <
-        p > 👍깃 스페셜 세션 너무 좋아요~~👍 < /p> <
+        h1 > Sang - gyeong < /h1> <
         /div>
     );
 }
